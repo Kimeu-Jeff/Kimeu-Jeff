@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+I'm Kimeu Japheth, a GIS, Earth Observation and Machine Learning Engineer
+
 **Updates:**
+
 - 🔭 I’m currently working as a GIS and RS Consultant at **FAO-UN**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
