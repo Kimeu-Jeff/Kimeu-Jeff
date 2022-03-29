@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**Updates:**
+- 🔭 I’m currently working as a GIS and RS Consultant at **FAO-UN**
+- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
+
+## **Language and Tools**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimeu-Jeff&theme=radical)
+
 <!--
 **Kimeu-Jeff/Kimeu-Jeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
